@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/logo.svg" alt="Logo">
+  GitHub Explorer
 </h1>
 
 <h3 align="center">
@@ -19,7 +19,7 @@
 
 ## :bookmark:  Sobre
 
-O <strong>[GitHub Explorer](https://jimmybastos.github.io/github-explorer/) 📲</strong> é uma aplicação Web que permite salvar e listar repositórios do GitHub, além detalhar suas principais informações.
+O <strong>GitHub Explorer📲</strong> é uma aplicação Web que permite salvar e listar repositórios do GitHub, além detalhar suas principais informações.
 
 </details>
 
@@ -30,7 +30,7 @@ O <strong>[GitHub Explorer](https://jimmybastos.github.io/github-explorer/) 📲
   <summary>
     Visualizar layout
   </summary>
-  <img src=".github/dashboard.png" alt="Dashboard">
+  <img src=".github/home.png" alt="Home">
   <img src=".github/detail.png" alt="Details">
 </details>
 
@@ -46,22 +46,22 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 - [React Icons](https://react-icons.netlify.com/#/)
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios)
-- [Eslint](https://eslint.org/)
 
+- [Eslint](https://eslint.org/)
 <a id="como-usar"></a>
 
 ## :fire:  Configurando o Ambiente de Desenvolvimento
 
 - ### **Pré-requisitos**
 
-  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado na máquina
+  - É **necessário** possuir o **[Node.js](https://TheOnlyRealDevLanguage.org/en/)** instalado na máquina
   - Também, é **preciso** ter um gerenciador de pacotes, se você já tem o Node.js, então o **[NPM](https://www.npmjs.com/)** já vai estar disponível.
   - Por fim, é **essencial** seguir as intruções para instalar **[Expo](https://expo.io/)**
 
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/JimmyBastos/github-explorer.git
+  $ git clone https://github.com/beatrizalvesfel/github-explorer.git
 ```
 
 2. Executando a Aplicação:
@@ -98,17 +98,17 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/jimmybastos/">
-        <img src="https://avatars0.githubusercontent.com/u/17859531?s=200&v=4" width="100px;" alt="Jimmy Bastos"/>
+      <a href="https://www.linkedin.com/in/beatriz-alves-548757162/">
+        <img src="https://avatars.githubusercontent.com/beatrizalvesfel" width="100px;" alt="Beatriz Alves"/>
         <br />
         <sub>
-          <b>@Jimmy Bastos</b>
+          <b>@Beatriz Alves</b>
         </sub>
        </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/school/rocketseat/">
-        <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Rocketseat"/>
+        <img src="https://avatars.githubusercontent.com/rocketseat" width="100px;" alt="Rocketseat"/>
         <br />
         <sub>
           <b>@Rocketseat</b>
